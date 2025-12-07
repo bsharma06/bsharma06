@@ -1,5 +1,6 @@
-## Hi, I’m Bhoopesh Sharma
+### Hi, I’m Bhoopesh Sharma
 Senior Manager – Operations Technology & Strategy | AI & Automation Architect | SaaS Innovator
+
 ---
 I’m passionate about transforming business operations through AI-powered automation, low-code platforms, and scalable SaaS solutions. With 10+ years of experience, I bridge the gap between business needs and technology—designing and delivering systems that are efficient, human-centered, and future-ready.
 
